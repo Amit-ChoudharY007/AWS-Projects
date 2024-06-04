@@ -37,7 +37,7 @@ Users start by pushing a new commit to the GitHub repository. This triggers the 
 
 1. Clone or download the repository.
 ```sh
-git clone https://github.com/Amit-ChoudharY007/AWS-Projects.git
+git clone https://github.com/Amit-ChoudharY007/AWS-Projects-CICD.git
 ```
 2. Follow the steps mentioned in the [Steps](#steps-) section.
 3. Clean up the resources by following the [Clean Up](./Steps/step5.md) steps.
