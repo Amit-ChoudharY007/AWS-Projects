@@ -9,7 +9,7 @@ Users start by pushing a new commit to the GitHub repository. This triggers the 
 **Note:** The build stage in this project is used to test the Node.js web application. In a real-world scenario, you would also include the build process in this stage.
 
 ## Architecture Diagram 📌
-![aws-cicd-with-eb](https://github.com/amit-choudhary007/aws-cicd-devops-web-app/assets/144098846/f430491c-f767-4e2e-a7f6-2ba9f7e20ca5)
+![aws-cicd-with-eb](https://private-user-images.githubusercontent.com/144098846/320269562-f430491c-f767-4e2e-a7f6-2ba9f7e20ca5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1MTcwNDAsIm5iZiI6MTcxNzUxNjc0MCwicGF0aCI6Ii8xNDQwOTg4NDYvMzIwMjY5NTYyLWY0MzA0OTFjLWY3NjctNGUyZS1hN2Y2LTJiYTlmN2UyMGNhNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwNFQxNTU5MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMzIzOTIwZmRhNTQ4ZGE4Yjk1ZWU1YWZkMjRkZDEwMWY1YzQwNWQ0ZDllOTEyMTlkZmNlZmE5NTc2MTJkODZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.THgsWcF8EtH7ywwi4V6nLxoJojLHnqbICi8-E2qGfY4)
 
 ## Prerequisites 📋
 
@@ -37,7 +37,7 @@ Users start by pushing a new commit to the GitHub repository. This triggers the 
 
 1. Clone or download the repository.
 ```sh
-git clone https://github.com/amit-choudhary007/aws-cicd-devops-web-app
+git clone https://github.com/Amit-ChoudharY007/AWS-Projects.git
 ```
 2. Follow the steps mentioned in the [Steps](#steps-) section.
 3. Clean up the resources by following the [Clean Up](./Steps/step5.md) steps.
